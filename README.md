@@ -1,6 +1,6 @@
 - Meu nome é Eloise
 - Estudo no Colégio Estadual Carlos Zewe Coimbra
-- Minha limguagem de programação favorita é o scratch
+- Minha linguagem de programação favorita é o scratch
 - Falo portugues brasileiro
 - email = eloise.alves.rocha@escola.pr.gov.br
 
